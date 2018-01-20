@@ -1,10 +1,9 @@
 # gaius_nb
-
 *——由于存放ipynb文件*
 
-- [Table of Contents](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/Table_of_Contents.ipynb)
 
-- [tutorials](): 教程
-    - [Ten Minutes to Pandas](): 十分钟了解Pandas
+- [tutorials](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/tutorials/index.ipynb): 教程
+    - [Ten Minutes to Pandas](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/tutorials/Ten_Minutes_to_Pandas.ipynb): 十分钟了解Pandas
 
-- [data](): 数据集
+
+- [data](https://github.com/gaiusyao/gaius_nb/tree/master/data): 数据集
