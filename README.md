@@ -4,6 +4,7 @@
 
 - [tutorials](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/tree/master/tutorials/index.ipynb): 教程
     - [Ten Minutes to Pandas](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/tutorials/Ten_Minutes_to_Pandas.ipynb): 十分钟了解Pandas
+    - [seaborn](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/tutorials/seaborn/index.ipynb): seaborn官方教程
 
 
 - [reading](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/tree/master/reading/index.ipynb): 读书笔记
