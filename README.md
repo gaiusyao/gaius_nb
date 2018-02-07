@@ -13,5 +13,8 @@
     - [Data Science Essentials in Python](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/reading/Data_Science_Essentials_in_Python/index.ipynb): Python数据科学入门
 
 
+- [Julia](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/tree/master/Julia/index.ipynb): Julia
+
+
 - [data](https://github.com/gaiusyao/gaius_nb/tree/master/data): 数据集
 
