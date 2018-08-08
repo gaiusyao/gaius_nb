@@ -9,13 +9,6 @@
     - [Py36](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/tutorials/Py36/Index.ipynb): Python3.6官方教程
 
 
-- [reading](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/tree/master/reading/index.ipynb): 读书笔记
-    - [SQL必知必会_4th](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/reading/SQL必知必会_4th/index.ipynb): SQL必知必会（第四版）
-    - [Think_Stats](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/reading/Think_Stats/index.ipynb): 统计思维 *#TODO*
-    - [Python_for_Data_Analysis](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/reading/Python_for_Data_Analysis/index.ipynb): 利用Python进行数据分析（第二版） *#TODO*
-    - [Beiginning_Python](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/blob/master/reading/Beiginning_Python/index.ipynb): Python基础教程（第3版） *#TODO*
-
-
 - [Julia](https://nbviewer.jupyter.org/github/gaiusyao/gaius_nb/tree/master/Julia/index.ipynb): Julia
 
 
