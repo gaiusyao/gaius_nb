@@ -16,6 +16,8 @@ http://search.kongfz.com/product_result/?key=%E6%AF%9B%E6%B3%BD%E4%B8%9C&itemfil
 - status=0 在售
 - status=1 已售
 
+- xinshu=1 新书（品相全新）
+
 http://search.kongfz.com/product_result/?status=0&key=%E6%AF%9B%E6%B3%BD%E4%B8%9C&select=0&itemfilter=1&exkey=k5a01k5c14k900a&itemname=k6bdbk6cfdk4e1ck9009k96c6&author=hk6bdbk6cfdk4e1c&press=hk4ebak6c11&shopname=hk8001k7167k7247
 
 http://search.kongfz.com/product_result/?status=0&key=%E6%AF%9B%E6%B3%BD%E4%B8%9C&select=0&itemfilter=1&exkey=k5a01k5c14k900a&itemname=k6bdbk6cfdk4e1ck9009k96c6&author=hk6bdbk6cfdk4e1c&press=hk4ebak6c11&shopname=hk8001k7167k7247&type=1&ajaxdata=1&_=1538495535364
